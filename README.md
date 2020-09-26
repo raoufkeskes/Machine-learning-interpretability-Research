@@ -1,6 +1,6 @@
 # Machine-learning-interpretability-Research
 
-I've been working with Aurélia Dolo on "Machine learning Interpretability/Explainability" and here you could find :
+I've been working with Aurélia DOLO on "Machine learning Interpretability/Explainability" and here you could find :
 
 - a detailed report about the state of the art of "machine learning interpretability"
 - a presentation (in French) which sums up the report and where we also proposed theoretically a novel method going beyond the current state of the art called
